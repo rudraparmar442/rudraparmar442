@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Rudra Parmar 👋
+## Data Analyst | Python · SQL · Data Visualization
 
-<!--
-**rudraparmar442/rudraparmar442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn raw data into actionable insights. Focused on
+customer behavior analysis, data visualization, and
+building clean analytical pipelines.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-parmar-551386329/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:rudraparmar203@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical skills
+
+**Core:** Python · SQL · Jupyter Notebook · Git
+**Libraries:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+**Focus areas:** EDA · Customer Segmentation · Data Visualization
+
+---
+
+## Featured projects
+
+### Ecommerce Customer Analytics
+> Segmentation & churn analysis on [1M+] transaction records
+> **Tools:** Python, Pandas, Seaborn · [View →](https://github.com/rudraparmar442/Ecommerce-Customer-Analytics.git)
+
+---
+
+## GitHub stats
+![Stats](https://github-readme-stats.vercel.app/api?username=rudraparmar442&show_icons=true&hide_border=true)
+
+---
+
+Open to **Data Analyst** roles · rudraparmar203@gmail.com
+
+
