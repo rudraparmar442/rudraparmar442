@@ -21,13 +21,14 @@ building clean analytical pipelines.
 ## Featured projects
 
 ### Ecommerce Customer Analytics
-> Segmentation & churn analysis on [1M+] transaction records
+> Segmentation & churn analysis on 1M+ transaction records
 > **Tools:** Python, Pandas, Seaborn · [View →](https://github.com/rudraparmar442/Ecommerce-Customer-Analytics.git)
 
 ---
 
 ## GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=rudraparmar442&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=rudraparmar442&show_icons=true&theme=dark&hide_border=true)
+
 
 ---
 
