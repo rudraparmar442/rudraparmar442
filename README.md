@@ -13,7 +13,9 @@ building clean analytical pipelines.
 ## Technical skills
 
 **Core:** Python · SQL · Jupyter Notebook · Git
+
 **Libraries:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+
 **Focus areas:** EDA · Customer Segmentation · Data Visualization
 
 ---
